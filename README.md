@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Lourdes👋<br><br><br>- 😄 Software Developer<br>- 🔭 I’m currently working on a simple book management system <br>- 🌱 I’m currently learning React<br>- 📫 How to reach me: lourdeswairimu@gmail.com<br>- ⚡ Fun fact: Octopuses have three hearts
+####### Hi I'm Lourdes👋<br><br><br>- 😄 Software Developer<br>- 🔭 I’m currently working on a simple book management system <br>- 🌱 I’m currently learning React<br>- 📫 How to reach me: lourdeswairimu@gmail.com<br>- ⚡ Fun fact: Octopuses have three hearts
 
 
 ## 🌐 Socials:
