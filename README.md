@@ -1,5 +1,5 @@
 # 💫 About Me:
-####### Hi I'm Lourdes👋<br><br><br>- 😄 Software Developer<br>- 🔭 I’m currently working on a simple rental and lease management system <br>- 🌱 I’m currently learning React<br>- 📫 How to reach me: lourdeswairimu@gmail.com<br>- ⚡ Fun fact: Octopuses have three hearts
+####### Hi I'm Lourdes👋<br><br><br>- I am a Computer Science graduate from KCA University with a passion for crafting aesthetically pleasing and highly functional websites 😄. For me, every obstacle is an opportunity to innovate and grow. Constant learning drives me, and I’m eager to apply my skills in a junior web developer role where I can collaborate with like-minded professionals to create outstanding software.<br>- 🔭 I’m currently working on a simple rental and lease management system <br>- 🌱 I’m currently learning React<br>- 📫 How to reach me: lourdeswairimu@gmail.com<br>- ⚡ Fun fact: Octopuses have three hearts
 
 
 ## 🌐 Socials:
